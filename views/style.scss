@@ -99,6 +99,7 @@ code.hljs {
   padding-left: 1rem;
 
   .hljs-string { color: $green; }
+  .hljs-subst { color: $yellow; }
   .hljs-constant { color: $blue; }
   .hljs-symbol { color: $cyan; }
   .hljs-keyword { color: $yellow; }
